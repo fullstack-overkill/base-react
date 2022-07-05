@@ -1,0 +1,2 @@
+BaseNameComponent = mult times
+TheNameComponent 
